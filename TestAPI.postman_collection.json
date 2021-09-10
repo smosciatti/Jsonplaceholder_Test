@@ -152,7 +152,7 @@
 									"\r",
 									"// if id is greater than 10, the operation is not really completed \r",
 									"const response = pm.response.json();\r",
-									"pm.test(\"ID should be <= 10\", ()  => {\r",
+									"pm.test(\"ID should be <= 200\", ()  => {\r",
 									"pm.expect(response.id).to.not.gt(200);\r",
 									"});\r",
 									"//console.log(response);\r",
