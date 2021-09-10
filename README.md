@@ -1,5 +1,6 @@
 # Jsonplaceholder_Test
-Here my  resut  of jsonplaceholder test 
+jsonplaceholder test 
+
 Environment:
 o	Postman app 8.12.2.
 
